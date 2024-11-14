@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80806741303",
+    "project_id": "coffeehouse-efcd8",
+    "storage_bucket": "coffeehouse-efcd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80806741303:android:a956c56f41acc01625c6b2",
+        "android_client_info": {
+          "package_name": "com.example.cafetariat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DVuQS7LVc3O3TzLbFp-nnqQciC01K_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
